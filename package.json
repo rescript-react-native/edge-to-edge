@@ -1,15 +1,17 @@
 {
-  "name": "@rescript-react-native/__template__",
-  "description": "ReScript bindings for react-native-XXXXXXXXXX",
-  "version": "0.0.0",
+  "name": "@rescript-react-native/edge-to-edge",
+  "description": "ReScript bindings for react-native-edge-to-edge",
+  "version": "1.4.3",
   "publishConfig": {
     "access": "public"
   },
-  "peerDependencies": {},
+  "peerDependencies": {
+    "@rescript/react": ">=0.12.0"
+  },
   "overrides": {
     "react": "18.0.0"
   },
-  "repository": "https://github.com/rescript-react-native/__template__.git",
+  "repository": "https://github.com/rescript-react-native/edge-to-edge.git",
   "funding": "https://github.com/rescript-react-native/rescript-react-native?sponsor=1",
   "license": "MIT",
   "keywords": [
@@ -38,6 +40,7 @@
     "release": "npmpub"
   },
   "devDependencies": {
+    "@rescript/react": "^0.12.2",
     "rescript": "^11.1.0",
     "husky": "^8.0.0",
     "lint-staged": "^13.0.0",

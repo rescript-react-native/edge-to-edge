@@ -1,17 +1,5 @@
-# Changelog of `@rescript-react-native/__template__`
+# Changelog of `@rescript-react-native/edge-to-edge`
 
-## X.Y.Z - 20YY-MM-DD
+## 1.4.3 - 2025-04-16
 
-Short & concise description
-
-### 💥 Breaking changes
-
-- Something, in [1234567](<link to commit on github>) by @<usename>
-
-### 🐛 Fixes
-
-- Something else, in [1234567](<link to commit on github>) by @<usename>
-
-### Internal changes
-
-(If worth mentioning)
+- initial binding by @freddy03h

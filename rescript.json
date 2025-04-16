@@ -1,5 +1,5 @@
 {
-  "name": "@rescript-react-native/__template__",
+  "name": "@rescript-react-native/edge-to-edge",
   "jsx": {
     "version": 4
   },
@@ -20,5 +20,7 @@
   "warnings": {
     "error": true
   },
-  "bs-dependencies": []
+  "bs-dependencies": [
+    "@rescript/react"
+  ]
 }
