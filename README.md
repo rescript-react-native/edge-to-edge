@@ -62,8 +62,6 @@ open ReactNativeEdgeToEdge
 />
 ```
 
-...
-
 ### Methods
 
 #### `ReactNativeEdgeToEdge.SystemBars.pushStackEntry`
@@ -72,14 +70,6 @@ open ReactNativeEdgeToEdge
 open ReactNativeEdgeToEdge
 
 SystemBars.pushStackEntry(props)
-```
-
-#### `ReactNativeEdgeToEdge.SystemBars.popStackEntry`
-
-```rescript
-open ReactNativeEdgeToEdge
-
-SystemBars.popStackEntry(props)
 ```
 
 #### `ReactNativeEdgeToEdge.SystemBars.popStackEntry`
